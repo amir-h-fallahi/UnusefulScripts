@@ -6,7 +6,7 @@ Some solve specific technical challenges, some automate repetitive tasks, and ot
 
 | Directory | Description |
 |---|---|
-| `esxi-guest-operations` | VMware vSphere Guest Operations API research and Host-to-Guest scenario |
-| `adcs-sid-mapping` | LDAP `objectSid` retrieval and SID conversion |
+| `ESXi-Guest-Operations` | VMware vSphere Guest Operations API research and Host-to-Guest scenario |
+| `ADCS-SID-Mapping` | LDAP `objectSid` retrieval and SID conversion |
 
 More scripts and experiments will be added over time.
