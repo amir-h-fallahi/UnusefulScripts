@@ -1,3 +1,7 @@
+# Challenge
+
+After gaining access to the ESXi shell, I needed to list and retrieve files from an ESXi guest VM.
+
 # Solution
 
 Abuse of VMware vSphere Guest Operations APIs on ESXi.
